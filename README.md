@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Esports
 - 💞️ I’m looking to collaborate on playing Mobile Games
 - 📫 You can reach me at gallartegenica@gmail.com
+- Check my curriculum vitae at https://gallartegenica.wixsite.com/ade3el
 
 <!---
 Ade3el/Ade3el is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
